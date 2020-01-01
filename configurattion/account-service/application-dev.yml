@@ -1,0 +1,3 @@
+config:
+  server:
+    account-key: Hello, AS from Config Server - DEV profile
